@@ -1,19 +1,21 @@
-# Hotel Management System
+# Hotel Management System in Java
 
-Hotel Management System is a desktop based Java application developed in NetBeans IDE with Microsoft Access Database.
+This is my Java based Hotel Management project created in NetBeans.
 
-## Modules
-- Login Module
-- Customer Registration
-- Room Management
-- Room Booking
-- Billing Module
-- Employee Management
-- Reports
+It helps to manage hotel rooms, customer booking, check in, check out and billing.
 
 ## Technologies Used
 - Java
-- NetBeans IDE
-- Java Swing
-- Microsoft Access
-- JDBC
+- NetBeans
+- Microsoft Access Database
+
+## Main Features
+- Add Customer Details
+- Room Booking
+- Check In / Check Out
+- Billing System
+
+## Project Status
+Project completed successfully.
+
+### Created by Divya Hiranwal
